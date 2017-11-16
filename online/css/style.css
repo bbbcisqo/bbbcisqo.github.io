@@ -1,0 +1,72 @@
+body {background:black}
+
+#wrap { 													/* added for FireFox */
+		background:black
+		}
+
+#header {
+			margin: 0 0 6px 15px;
+			padding: 0 0 0px;
+			width:968px;
+			/*background: url(../images/header-bg.jpg) #000 no-repeat left bottom*/
+		}
+
+.textsizeimg {color:white}
+
+#yellowbar { 
+			background: #dc1f28 url(../images/sub-menu-bg-personal.html) top left no-repeat;
+}
+
+
+.rhSection{	
+			background:#d5d5d5;
+		}
+
+#content h1 {
+				color:#DC291E;
+			}
+
+#rightHandBar h2 {
+				background:#c00 url(../images/personal-tools-title-bg.gif) top left no-repeat;
+}
+
+#rightHandBar a { 	
+				color:#cc0000;
+				text-decoration:underline
+			}
+#rightHandBar a:hover {
+				color:#cc0000;
+						
+
+text-decoration:none
+}
+
+#innercontent {
+				
+				padding-top: 10px;
+				padding-left:10px;
+				margin-right:3px;
+				
+				margin-left:2px;
+				
+			}
+
+
+#nav-secondary li.active0 a:active, #nav-secondary li.active0  a:visited {
+				color:#fff;background:#282828
+			}
+
+#nav-secondary li.active a:link, #nav-secondary li.active a:visited, #nav-secondary li.active a:hover, #nav-secondary li.active a:active {
+	background:#282828;
+	color:#FFFFFF;
+}
+
+#blueText{
+	color:white
+}
+
+.dateText {float:right;
+			padding-top:6px;
+			list-style:none;																/*firefox only, removes bullets */
+			color:white;}
+			
